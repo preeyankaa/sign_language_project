@@ -1,0 +1,20 @@
+0 Call Me
+1 Crime
+2 Good Luck
+3 Greet Fight
+4 Greet Support
+5 Hate
+6 Hello
+7 Hurts a lot
+8 I Love You
+9 mini heart
+10 No
+11 Ok
+12 Peace
+13 Pinch
+14 Pointing left
+15 Pointing up
+16 Receive
+17 Rock
+18 Thank You
+19 Yes
